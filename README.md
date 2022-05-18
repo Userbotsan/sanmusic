@@ -1,7 +1,7 @@
-<h2 align="centre">Kazu Music Player</h2>
+<h2 align="centre">SAN MUSIC Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f3dc77132b42c25b79655.jpg">
+  <img src="https://telegra.ph/file/7ba898de46eda9956bbb5.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
